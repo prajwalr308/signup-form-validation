@@ -1,0 +1,60 @@
+.logo {
+  text-align: center;
+}
+.logo img {
+  width: 40%;
+  height: 10%;
+}
+.head {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.head h3 {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.form-control {
+  border-radius: 10px !important;
+}
+
+.btn {
+  border-radius: 10px !important;
+  border: white !important;
+  font-size: 1.1rem !important;
+  font-weight: 500 !important;
+}
+.signup {
+  background-color: #65b775 !important;
+  margin-bottom: 30px !important;
+}
+.social Button {
+  margin-bottom: 10px;
+}
+.google {
+  background-color: #dd4b39 !important;
+}
+.facebook {
+  background-color: #3b5998 !important;
+}
+.linkedin {
+  background-color: #2e7cb6 !important;
+}
+i {
+  color: white;
+  float: left;
+  margin: 5px 15px 0 5px;
+  font-size: 19px;
+}
+
+/* validation */
+.error-css {
+  border-color: rgba(255, 0, 0, 0.8) !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(255, 0, 0, 0.6) !important;
+  outline: 0 none !important;
+}
+/* .error-css:focus {
+  border-color: rgba(255, 0, 0, 0.8) !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(255, 0, 0, 0.6) !important;
+  outline: 0 none !important;
+} */
